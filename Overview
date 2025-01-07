@@ -1,1 +1,11 @@
-
+This project aims to develop a robust and accurate machine learning model for predicting car prices. 
+Accurate price predictions are crucial for buyers, sellers, and insurance companies to make informed 
+decisions. Leveraging historical data on car sales, including variables such as make, model, year, mileage, 
+engine size, and other relevant features, we explore various machine learning algorithms to find the most 
+effective model.Our methodology includes data collection, preprocessing, feature engineering, and model selection. 
+We experiment with different models, including Linear Regression, Decision Trees, Random Forests, and Gradient 
+Boosting Machines, to evaluate their performance based on metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). 
+The results indicate that the Random Forest model outperforms others in terms of accuracy and robustness.
+This project not only provides insights into the significant factors influencing car prices but also presents 
+a scalable solution for real-world applications in the automotive industry. Future work will focus on incorporating 
+additional data sources and refining the model to improve prediction accuracy further.
