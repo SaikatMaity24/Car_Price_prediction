@@ -1,2 +1,2 @@
-# Car_Price_prediction
-Car_Price_prediction Mini Project 2 Months Internship In AILABS - Data Core Systems
+# Car_Price_prediction 
+2 Months InternshipMini Project  In AILABS - Data Core Systems
